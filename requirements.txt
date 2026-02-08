@@ -21,3 +21,4 @@ kornia>=0.7.1
 spandrel
 soundfile
 av
+zipp>=3.19.1 # not directly required, pinned by Snyk to avoid a vulnerability
